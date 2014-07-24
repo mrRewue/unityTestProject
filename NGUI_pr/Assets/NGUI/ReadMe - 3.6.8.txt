@@ -1,4 +1,4 @@
-----------------------------------------------
+﻿----------------------------------------------
             NGUI: Next-Gen UI kit
  Copyright © 2011-2014 Tasharen Entertainment
             Version 3.6.8
@@ -24,6 +24,7 @@ drop by the NGUI forum, found here: http://www.tasharen.com/forum/index.php?boar
 
 --------------------
  How To Update NGUI
+sldhakjfhkfjhsfjkfhksjfdk
 --------------------
 
 If you have the Professional or Site License of NGUI that comes with Git access, just pull the latest changes.
