@@ -5,8 +5,8 @@
     http://www.tasharen.com/?page_id=197
             support@tasharen.com
 ----------------------------------------------
-dgdfdfgdfgd
-Thank you for buying NGUI!hello
+
+Thank you for buying NGUI!
 
 PLEASE NOTE that NGUI can only be legally downloaded from the following 3 sources:
 
