@@ -1,4 +1,4 @@
-﻿----------------------------------------------
+----------------------------------------------
             NGUI: Next-Gen UI kit
  Copyright © 2011-2014 Tasharen Entertainment
             Version 3.6.8
@@ -57,7 +57,7 @@ and it will not be included in the build of your game. It's only used in the edi
 -----------------
 
 3.6.8
-- NEW: UIWrapContent now has a range limit you can set for indices (such as -10 to 10).
+- 'k'l'lNEW: UIWrapContent now has a range limit you can set for indices (such as -10 to 10).
 - NEW: Added Transform.OverlayPosition to make it easy to position widgets using 3D object positions.
 - FIX: Progress bars / sliders will no longer show the foreground if the value is 0.
 - FIX: Changing UI2DSprite.sprite2D will now immediately re-add the widget to the panel.
