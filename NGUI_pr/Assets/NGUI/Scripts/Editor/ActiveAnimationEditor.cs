@@ -5,7 +5,7 @@
 
 using UnityEngine;
 using UnityEditor;
-
+//bla bla bla
 [CustomEditor(typeof(ActiveAnimation))]
 public class ActiveAnimationEditor : Editor
 {
