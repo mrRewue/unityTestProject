@@ -6,7 +6,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-/// <summary>YAHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+/// <summary>
 /// This is a script used to keep the game object scaled to 2/(Screen.height).
 /// If you use it, be sure to NOT use UIOrthoCamera at the same time.
 /// </summary>
